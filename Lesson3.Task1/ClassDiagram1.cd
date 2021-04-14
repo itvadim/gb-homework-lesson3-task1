@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lesson3.Task1.Collections.LinkedList&lt;T&gt;">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABABAAAAAQAAAAAAIAQAAAAAAAAAQAACAAAAAAA=</HashCode>
+      <FileName>Collections\LinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Collections.LinkedNode&lt;T&gt;">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Collections\LinkedNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Collections.Queue&lt;T&gt;">
+    <Position X="8.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABAAAAAAAAAAAAAAQAABAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Collections\Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Collections.Stack&lt;T&gt;">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAIQAABAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Collections\Stack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Extensions.StringExtensions">
+    <Position X="10.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Extensions\StringExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Exceptions.InvalidSymbolException">
+    <Position X="10.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InvalidSymbolException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Program">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Calculators.ArithmeticCalculator">
+    <Position X="3.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAgBAAACBIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Calculators\ArithmeticCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Calculators.Calculator">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAACBAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Calculators\Calculator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_expressionParser" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lesson3.Task1.Calculators.ResultExpression">
+    <Position X="3.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Calculators\ResultExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Parsers.ArithmeticParser">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAABAAAAAAAAAAAKQAAAAAAAA=</HashCode>
+      <FileName>Parsers\ArithmeticParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson3.Task1.Parsers.Parser">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Parsers\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
